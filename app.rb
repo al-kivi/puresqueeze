@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'gmail'
-#require 'mandrill' # this is an alternative to gmail
 
 # Basic functions
 # -------------------------------------------------------------
